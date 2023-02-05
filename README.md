@@ -1,6 +1,6 @@
 ## Opa, sou o Bryan Venceslau
 
-- 🔭 Apenas estudante no momento
+- 🔭 Apenas um estudante no momento
 - 🌱 Estudando HTML e CSS
 - 😄 Pronomes: ele/dele
  
