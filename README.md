@@ -1,7 +1,7 @@
 ## Opa, sou o Bryan Venceslau
 
 - 🔭 Apenas um estudante no momento
-- 🌱 Estudando
+- 🌱 Estudando essa área
 - 😄 Pronomes: ele/dele
  
 <div class="informacoes">
