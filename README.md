@@ -1,6 +1,6 @@
 ## Opa, sou o Bryan Venceslau
 
-- 🔭 Apenas um estudante no momento
+- 🔭 Jovem Aprendiz na Unimed Litoral
 - 🌱 Estudando essa área
 - 😄 Pronomes: ele/dele
  
